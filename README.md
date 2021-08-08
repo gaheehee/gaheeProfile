@@ -13,6 +13,7 @@
 - 🔵 Game
 - 🍕 Pizza
 
+<br>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=gaheehee&theme=vue&show_icons=true"/>
