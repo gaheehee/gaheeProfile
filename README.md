@@ -23,7 +23,8 @@
 </p>
 
 <h2 align ="center">🎮 Tech Stack 🎮</h2>
-<h4 align ="center"> Techs that I've used at least once </h4>
+<h3 align ="center"> Techs that I've used at least once ! </h3>
+<br>
 <p align="center">
 <img alt="C" src ="https://img.shields.io/badge/C-F8DC75.svg?&?style=flat&logo=C&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-302683.svg?&?style=flat&logo=Java&logoColor=white"/>
