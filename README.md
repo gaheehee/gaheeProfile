@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaheehee&layout=compact"/>
 </p>
 
-<img alt="C" src ="https://img.shields.io/badge/C-9999FF.svg?&?style=flat&logo=C&logoColor=black"/>
+<img alt="C" src ="https://img.shields.io/badge/C-220052.svg?&?style=flat&logo=C&logoColor=black"/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-302683.svg?&?style=flat&logo=Java&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&?style=flat&logo=Python&logoColor=white"/>
 <img alt="JavaScripts" src ="https://img.shields.io/badge/JavaScripts-F7DF1E.svg?&?style=flat&logo=JavaScripts&logoColor=black"/>
