@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Gahee&fontSize=90&animation=fadeIn&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Gahee&fontSize=90&animation=fadeIn&fontAlign=50" />
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=gaheehee&theme=vue&show_icons=true"/>
