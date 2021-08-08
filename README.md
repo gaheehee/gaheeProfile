@@ -22,12 +22,27 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaheehee&layout=compact"/>
 </p>
 
-<p>
+<h2 align ="center">🎮 Tech stacks 🎮</h2>
+<p align="center">
 <img alt="C" src ="https://img.shields.io/badge/C-F8DC75.svg?&?style=flat&logo=C&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-302683.svg?&?style=flat&logo=Java&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&?style=flat&logo=Python&logoColor=white"/>
 <img alt="JavaScripts" src ="https://img.shields.io/badge/JavaScripts-F7DF1E.svg?&?style=flat&logo=JavaScripts&logoColor=black"/>
 <img alt="raspberrypi" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&?style=flat&logo=raspberrypi&logoColor=white"/>
+<img alt="HTML" src ="https://img.shields.io/badge/Java-302683.svg?&?style=flat&logo=Java&logoColor=white"/>
+<img alt="css" src ="https://img.shields.io/badge/Java-302683.svg?&?style=flat&logo=Java&logoColor=white"/>
+</P>
+
+<p align="center">
+<img alt="node.js" src ="https://img.shields.io/badge/C-F8DC75.svg?&?style=flat&logo=C&logoColor=white"/>
+<img alt="express" src ="https://img.shields.io/badge/Java-302683.svg?&?style=flat&logo=Java&logoColor=white"/>
+<img alt="firebase" src ="https://img.shields.io/badge/Python-3776AB.svg?&?style=flat&logo=Python&logoColor=white"/>
+<img alt="PostgreSQL" src ="https://img.shields.io/badge/JavaScripts-F7DF1E.svg?&?style=flat&logo=JavaScripts&logoColor=black"/>
+<img alt="Docker" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&?style=flat&logo=raspberrypi&logoColor=white"/>
+<img alt="React" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&?style=flat&logo=raspberrypi&logoColor=white"/>
+<img alt="next" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&?style=flat&logo=raspberrypi&logoColor=white"/>
+<img alt="spring-boot" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&?style=flat&logo=raspberrypi&logoColor=white"/>
+<img alt="Jenkins" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&?style=flat&logo=raspberrypi&logoColor=white"/>
 </P>
 
 
