@@ -8,11 +8,6 @@
 - 💪 **I will be a SW developer who continues to develop and grow.**
 - 🌱 my email is jghgahee@ajou.ac.kr. If you want to contact me, please contact me via this email!
 
-### What I Like
-- 📺 Drama
-- 🔵 Game
-- 🍕 Pizza
-
 <br>
 
 <p>
