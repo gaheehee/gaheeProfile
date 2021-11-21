@@ -40,6 +40,7 @@
 <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&?style=flat&logo=Firebase&logoColor=white"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&?style=flat&logo=MySQL&logoColor=white"/>
 <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&?style=flat&logo=PostgreSQL&logoColor=black"/>
+<img alt="Prisma" src ="https://img.shields.io/badge/Prisma-2D3748.svg?&?style=flat&logo=Prisma&logoColor=white"/>
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-FF7751.svg?&?style=flat&logo=raspberrypi&logoColor=white"/>
 <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-8ED500.svg?&?style=flat&logo=Next.js&logoColor=white"/>
 <img alt="Travis CI" src ="https://img.shields.io/badge/Travis CI-3EAAAF.svg?&?style=flat&logo=Travis CI&logoColor=white"/>
