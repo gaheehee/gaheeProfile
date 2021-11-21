@@ -29,14 +29,15 @@
 </P>
 
 <p align="center">
+<img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&?style=flat&logo=Spring Boot&logoColor=white"/>
 <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&?style=flat&logo=Node.js&logoColor=white"/>
 <img alt="Express" src ="https://img.shields.io/badge/Express-FF4747.svg?&?style=flat&logo=Express&logoColor=white"/>
 <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&?style=flat&logo=Firebase&logoColor=white"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&?style=flat&logo=MySQL&logoColor=white"/>
 <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&?style=flat&logo=PostgreSQL&logoColor=black"/>
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-FF7751.svg?&?style=flat&logo=raspberrypi&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React-0088CC.svg?&?style=flat&logo=raspberrypi&logoColor=white"/>
 <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-8ED500.svg?&?style=flat&logo=Next.js&logoColor=white"/>
-<img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&?style=flat&logo=Spring Boot&logoColor=white"/>
 <img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-004027.svg?&?style=flat&logo=Jenkins&logoColor=white"/>
 </P>
 
