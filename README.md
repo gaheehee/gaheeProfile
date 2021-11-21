@@ -26,6 +26,9 @@
 <img alt="raspberrypi" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&?style=flat&logo=raspberrypi&logoColor=white"/>
 <img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&?style=flat&logo=HTML5&logoColor=white"/>
 <img alt="CSS" src ="https://img.shields.io/badge/CSS-F43059.svg?&?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </P>
 
 <p align="center">
