@@ -4,7 +4,7 @@
 ### Who Am I
 - 🥇 I majored in Software, Ajou University.
 - 🥰 I like to learn and experience everythings. 
-- 🌼 I love animals and 
+- 🌼 I love animals and <mark>musical<mark>
 - 💪 **I will be a SW developer who continues to develop and grow.**
 - 🌱 my email is jghgahee@ajou.ac.kr. If you want to contact me, please contact me via this email!
 
