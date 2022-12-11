@@ -28,9 +28,7 @@
 <img alt="CSS" src ="https://img.shields.io/badge/CSS-F43059.svg?&?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
 </P>
 
 <p align="center">
